@@ -1,40 +1,27 @@
-<h1 align="left">👋 Welcome! I'm Humberto</h1>
+<pre>
+humberto / README.md
 
+olá!
 
+I'm Humberto Rodrigues, a software development student from Brazil.
 
-- Focused on <b>React</b>, <b>JavaScript</b>, and Frontend development.
-- Experienced in building Fullstack applications from scratch.
-- Committed to continuous learning and professional growth.
-<br>
+infos:
+  • software development student
+  • focused on frontend / fullstack
+  • brazilian BR — pt-br / en
+  • currently learning React, TypeScript, Java and Docker
 
----
+stack:
+  • React
+  • TypeScript
+  • JavaScript
+  • Tailwind CSS
+  • Java
+  • Git / GitHub
+  • Docker
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,gulp,js,jquery,less,nextjs,py,react,sass,ts,vite,windicss&theme=dark&perline=7" />
-  </a>
-</p>
-
----
-
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/humberto-werneck-bb821a30a" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="39" />
-  </a>
-  <a href="mailto:humberto7177@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="39" />
-  </a>
-</p>
-
----
-
-<details>
-  <summary>📄 More About Me</summary>
-  <ul>
-    <li>Experience working in agile and collaborative projects</li>
-    <li>Interest in UI/UX and code best practices</li>
-    <li>Open to new opportunities and challenges</li>
-  </ul>
-</details>
+contact:
+  • github: <a href="https://github.com/humbertowr">humbertowr</a>
+  • email: <a href="mailto:rodrigzhw@gmail.com">rodrigzhw@gmail.com</a>
+  • linkedin: <a href="https://www.linkedin.com/in/hwrodriguess/">in/hwrodriguess</a>
+</pre>
