@@ -1,11 +1,10 @@
 <pre>
-humberto / README.md
 
 olá!
 
-I'm Humberto Rodrigues, a software development student from Brazil.
+I'm Humberto, a software development student from Brazil.
 
-infos:
+about:
   • software development student
   • focused on frontend / fullstack
   • brazilian BR — pt-br / en
