@@ -7,7 +7,7 @@ I'm Humberto, a software development student from Brazil.
 about:
   • software development student
   • focused on frontend / fullstack
-  • brazilian BR — pt-br / en
+  • brazilian — pt-br / en
   • currently learning React, TypeScript, Java and Docker
 
 stack:
